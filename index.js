@@ -1,4 +1,4 @@
-import Danmu from './src/danmu'
+import Danmu from './src/index'
 
 const canvas = document.getElementById('canvas')
 const video = document.getElementById('video')
@@ -65,6 +65,6 @@ const data = [
   }
 ]
 
-new Danmu(canvas, video, {
+let dm = new Danmu(canvas, video, {
   data
 })

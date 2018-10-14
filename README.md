@@ -1,2 +1,0 @@
-# danmu
-danmuku for clicli

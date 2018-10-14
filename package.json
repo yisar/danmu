@@ -1,0 +1,20 @@
+{
+  "name": "danmu",
+  "version": "0.0.2",
+  "description": "danmuku for clicli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/132yse/danmu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/132yse/danmu/issues"
+  },
+  "homepage": "https://github.com/132yse/danmu#readme"
+}
